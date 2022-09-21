@@ -22,4 +22,4 @@
 
 ![Snake animation](htpps://github.com/cblouzada/cblouzada/blob/output/github-contribution-grid-sanke.svg)
 
-Atuamente estou no curso integral de 6 meses de Denvolvimento Web FullStack na Labenu 👨‍🎓
+Atualmente estou no curso integral de 6 meses de Denvolvimento Web FullStack na Labenu 👨‍🎓
