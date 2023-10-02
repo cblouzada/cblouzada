@@ -1,4 +1,4 @@
-## Hello 😎, My name Carlos Louzada e conheça meu repositorio🤝
+## Hello 😎, My name is Carlos Louzada e venha conhecer meu repositorio🤝
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cblouzada/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/Bergson7942)
