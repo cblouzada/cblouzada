@@ -23,6 +23,7 @@
 </div>
 <br>
 
-![Snake animation](htpps://github.com/cblouzada/cblouzada/blob/output/github-contribution-grid-sanke
+![snake gif](https://github.com/cblouzada/cblouzada/blob/output/github-contribution-grid-snake.gif)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=cblouzada&repo=cblouzada&theme=react)](https://github.com/cblouzada/cblouzada)
 
 Estudante de engenharia de software 📚 | formado pelo bootcamp da Labenu - web full stack 👨‍🎓
